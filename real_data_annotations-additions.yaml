@@ -1,0 +1,76 @@
+- annotations:
+  - {class: yellow, x_width: 33.0, xmin: 576.0, y_height: 92.0,
+    ymin: 402.0}
+  class: image
+  filename: left0123.jpg
+- annotations:
+  - {class: yellow, x_width: 35.0, xmin: 567.0, y_height: 97.0,
+    ymin: 398.0}
+  class: image
+  filename: left0127.jpg
+- annotations:
+  - {class: yellow, x_width: 37.0, xmin: 552.0, y_height: 99.0,
+    ymin: 395.0}
+  class: image
+  filename: left0133.jpg
+- annotations:
+  - {class: yellow, x_width: 68.0, xmin: 254.0, y_height: 180.0,
+    ymin: 353.0}
+  class: image
+  filename: left0705.jpg
+- annotations:
+  - {class: yellow, x_width: 67.0, xmin: 255.0, y_height: 179.0,
+    ymin: 355.0}
+  class: image
+  filename: left0702.jpg
+- annotations:
+  - {class: yellow, x_width: 36.0, xmin: 559.0, y_height: 97.0,
+    ymin: 397.0}
+  class: image
+  filename: left0130.jpg
+- annotations:
+  - {class: yellow, x_width: 38.0, xmin: 545.0, y_height: 103.0,
+    ymin: 391.0}
+  class: image
+  filename: left0135.jpg
+- annotations:
+  - {class: yellow, x_width: 37.0, xmin: 543.0, y_height: 104.0,
+    ymin: 390.0}
+  class: image
+  filename: left0136.jpg
+- annotations:
+  - {class: yellow, x_width: 34.0, xmin: 566.0, y_height: 97.0,
+    ymin: 398.0}
+  class: image
+  filename: left0128.jpg
+- annotations:
+  - {class: yellow, x_width: 34.0, xmin: 563.0, y_height: 97.0,
+    ymin: 397.0}
+  class: image
+  filename: left0129.jpg
+- annotations:
+  - {class: yellow, x_width: 37.0, xmin: 548.0, y_height: 100.0,
+    ymin: 393.0}
+  class: image
+  filename: left0134.jpg
+- annotations:
+  - {class: yellow, x_width: 37.0, xmin: 539.0, y_height: 106.0,
+    ymin: 389.0}
+  class: image
+  filename: left0137.jpg
+- annotations:
+  - {class: yellow, x_width: 37.0, xmin: 535.0, y_height: 106.0,
+    ymin: 388.0}
+  class: image
+  filename: left0138.jpg
+- annotations:
+  - {class: yellow, x_width: 66.0, xmin: 255.0, y_height: 178.0,
+    ymin: 355.0}
+  class: image
+  filename: left0701.jpg
+- annotations:
+  - {class: yellow, x_width: 32.0, xmin: 579.0, y_height: 91.0,
+    ymin: 403.0}
+  class: image
+  filename: left0122.jpg
+
